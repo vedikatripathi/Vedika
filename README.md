@@ -1,5 +1,5 @@
 # Vedika
 Hello World!! 
 How are you??
-Welcome to Git Hub!1
+Welcome to Git Hub!
 Have Fun......
